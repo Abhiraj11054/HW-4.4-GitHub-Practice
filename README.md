@@ -30,4 +30,4 @@ If needed for grading or questions, contact:
 Abhiraj Srivastava
 
 ## Purpose
-The purpose of this repository is to demonstrate proper GitHub workflow including branching, issue tracking, commits, and pull requests in a structured academic project.
+The purpose of this repository is to demonstrate proper GitHub workflow including branching, issue tracking, commits, and pull requests
